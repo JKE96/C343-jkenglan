@@ -9,13 +9,13 @@ public class RandomDNA {
 			if (t==0){
 				s = s +"A";
 			}
-			if (t==1){
+			else if (t==1){
 				s = s + "T";
 			}
-			if (t==2){
+			else if (t==2){
 				s = s + "C";
 			}
-			if (t==3){
+			else{
 				s = s + "G";
 			}
 		}
