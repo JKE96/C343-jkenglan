@@ -15,7 +15,7 @@ public class DNADist {
 		return count;
 	}
 
-	String produce(int size){      //this will produce a random DNA String of length 20
+	String produce(int size){      //this will produce a random DNA String of given size
 		String s = "";
 		for (int i = 1; i<=size ; i++){
 			Random rnd = new Random();
