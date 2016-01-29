@@ -1,5 +1,6 @@
 import java.util.ArrayList;
 
+
 public class Tweet {
 	private String content;
 	private String name;
