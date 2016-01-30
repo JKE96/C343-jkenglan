@@ -1,0 +1,17 @@
+HW2 Jarod England Problem 1
+Textbook Exercise 3.12
+a. Ө(1)
+
+b. Ө(n)
+
+c. Ө(n^2)     //n-squared
+
+d. Ө(n^2)
+
+e. Ө(nlog(n))
+
+f. Ө(nlog(n))
+
+g. Ө(n^2log(n))
+
+h. Ө(n^2)
