@@ -1,0 +1,26 @@
+Jarod England
+C343
+
+3.3 slowest->fastest
+2 -> logbase3(n) -> logbase2(n) -> n^(2/3) -> 20n -> 4n^2 -> 3^n -> n!
+
+
+3.8
+a. Upper bound: O(n)  Lower bound: O(n)
+b. Upper bound: O(n^3)  Lower bound: O(1)
+c. Upper bound: O(nlogn) Lower bound: O(n)
+
+4.1
+
+if (getValue() == 15){
+remove();
+}
+else {
+next();
+}
+
+4.11
+a. 13.333 = (20*8)/(4+8)
+b. 6 = (2* 30)/(2+8)
+c. 6 = 30/5
+d. 35.555 = (40*32)/(4+32)
