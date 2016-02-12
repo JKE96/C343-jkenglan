@@ -1,0 +1,7 @@
+Peyton Reese
+Jarod England
+C343
+2/12/16
+
+HW4 Analysis
+Our function works by having the floodList and iterating through every element in the floodList. Then, for every element in the flood list n there are declared instances of north south east and west so whatever time it takes to do the floodList.get(i) four times should be added. After doing this, there is four floodList.contains of the directional Coords which should multiply the time by n.  Lastly, n can become larger as Coords are being added so n can change while the function is iterating through the Coords in floodList. 
