@@ -67,7 +67,7 @@ public class BSTJr <K extends Comparable<?super K>> {
 		else{
 			System.out.println("the tree is unbalanced");
 		}
-	}
+	} 
 	
 	public static void main(String[] argv) {
 		BSTJr<Integer> tree = new BSTJr<Integer>();
