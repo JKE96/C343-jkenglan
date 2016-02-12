@@ -8,7 +8,7 @@ public class BinNode <K extends Comparable<?super K>>{
 		key = k;
 		left = right = null;
 		size = 1;
-	} 
+	}
 	public void setLeft(BinNode<K> node) {
 		left = node;
 	}
