@@ -1,5 +1,3 @@
-
- 
 public class Constants {
     public static final int BLUE = 0;
     public static final int PINK = 1;
