@@ -7,7 +7,7 @@ public class BinarySearch<E extends Comparable<?super E>>{
 		int l = -1;
 		int r = A.length;
 		while(l+r != r){
-			
+			 
 			int i = (l+r)/2;
 			if (val.compareTo(A[i]) == 0){
 				return i;
