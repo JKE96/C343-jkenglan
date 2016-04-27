@@ -151,6 +151,7 @@ public class KDtree<Key extends Comparable<? super Key>, E> {
 	// design your own examples to test the program!!
 	public static void main(String[] args) {
 
+		
 		KDtree<Integer, String> kdt = new KDtree<Integer, String>(2);
 		Integer[] dataA = { 40, 45 };
 		kdt.insert(dataA, "A");
