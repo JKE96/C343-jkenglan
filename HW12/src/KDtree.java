@@ -190,7 +190,7 @@ public class KDtree<Key extends Comparable<? super Key>, E> {
 		kdtree.insert(dataThree, "c");
 
 		Integer[] dataFour = { 42, 42, 50 };
-
+ 
 		// kdtree.preorder();
 
 		kdtree.getNeighbors(dataFour, 10);
